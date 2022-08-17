@@ -11,6 +11,28 @@ Set up a "Hello Microverse" project
 - HTML
 - CSS
 
+
+## setup to access the project
+
+> To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+-Github Account
+-code editor
+-Git
+
+### setup to access the project
+
+(go to the terminal in the code editor and put the following git commands)
+-git init
+-git clone git@github.com:Kasaija-Kenneth/Hello_world.git
+-cd hello_world
+-open index.html in the editor/browser to view the project contents
+-open style.css to see the CSS styles used in the project.
+-enjoy
+
+
 ### Deployment
 
 ## Author
